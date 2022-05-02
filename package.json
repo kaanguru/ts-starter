@@ -1,0 +1,11 @@
+{
+  "name": "@kaanguru/ts-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "nodemon": "^2.0.16",
+    "typescript": "^4.6.4"
+  }
+}
